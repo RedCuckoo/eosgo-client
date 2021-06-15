@@ -1,5 +1,8 @@
 # README #
 
+### Disclaimer ###
+This library is a fork of https://github.com/romainPellerin/eosgo-client that supports go.mod import for Go for convenient use
+
 ### Overview ###
 
 eosgo-client is a simple Go/Golang wrapper for EOS blockchain (https://eos.io).
@@ -7,7 +10,7 @@ eosgo-client is a simple Go/Golang wrapper for EOS blockchain (https://eos.io).
 It wraps the nodeos RPC API and will offer a high level set of API to simplify the development on top of EOS.
 
 ### Releases ###
-
+- v0.1.0: added go.mod support
 - v0.0.3: implement more eosio contracts (soon)
 - v0.0.2: implements standalone test cases
 - v0.0.1: fully functional wrapper of nodeos RPC API, see https://eosio.github.io/eos/group__eosiorpc.html for detailed specs
