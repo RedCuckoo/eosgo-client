@@ -13,7 +13,7 @@ package rpc
 
 import (
 	"fmt"
-	"github.com/romainPellerin/eosgo-client/common"
+	"github.com/redcuckoo/eosgo-client/common"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

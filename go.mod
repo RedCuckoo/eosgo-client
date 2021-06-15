@@ -1,4 +1,4 @@
-module github.com/romainPellerin/eosgo-client
+module github.com/redcuckoo/eosgo-client
 
 go 1.16
 

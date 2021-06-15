@@ -13,7 +13,7 @@ package model
 
 import (
 	"encoding/json"
-	"github.com/romainPellerin/eosgo-client/errors"
+	"github.com/redcuckoo/eosgo-client/errors"
 )
 
 type Authorization struct {

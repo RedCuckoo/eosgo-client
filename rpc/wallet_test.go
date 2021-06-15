@@ -13,9 +13,9 @@ package rpc
 
 import (
 	"fmt"
-	"github.com/romainPellerin/eosgo-client/common"
-	"github.com/romainPellerin/eosgo-client/errors"
-	"github.com/romainPellerin/eosgo-client/model"
+	"github.com/redcuckoo/eosgo-client/common"
+	"github.com/redcuckoo/eosgo-client/errors"
+	"github.com/redcuckoo/eosgo-client/model"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

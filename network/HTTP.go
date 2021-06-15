@@ -14,7 +14,7 @@ package network
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/romainPellerin/eosgo-client/errors"
+	"github.com/redcuckoo/eosgo-client/errors"
 	"io/ioutil"
 	"net/http"
 	"net/url"

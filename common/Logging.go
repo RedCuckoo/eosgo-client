@@ -15,7 +15,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/romainPellerin/eosgo-client/errors"
+	"github.com/redcuckoo/eosgo-client/errors"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 	"io"
